@@ -1,3 +1,3 @@
 LDA for topic modelling -> 
-Supervised Learning Models -> 
-Unsupervised Learning Models
+Supervised Learning Models & 
+Unsupervised Learning Model
